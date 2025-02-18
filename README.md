@@ -1,4 +1,4 @@
-# Hi there, I'm Rony Portelli 👋
+# Hi there, I'm Rony 👋
 
 I'm a passionate Software Engineer specializing in dynamic web applications, secure blockchain integrations, and immersive mixed reality solutions. I thrive in agile, collaborative environments and enjoy mentoring teams while pushing the boundaries of technology to deliver innovative enterprise solutions.
 
